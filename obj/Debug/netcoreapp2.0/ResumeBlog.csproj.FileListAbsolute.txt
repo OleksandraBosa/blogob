@@ -1,0 +1,11 @@
+c:\users\mary smith\source\repos\ResumeBlog\ResumeBlog\bin\Debug\netcoreapp2.0\ResumeBlog.deps.json
+c:\users\mary smith\source\repos\ResumeBlog\ResumeBlog\bin\Debug\netcoreapp2.0\ResumeBlog.runtimeconfig.json
+c:\users\mary smith\source\repos\ResumeBlog\ResumeBlog\bin\Debug\netcoreapp2.0\ResumeBlog.runtimeconfig.dev.json
+c:\users\mary smith\source\repos\ResumeBlog\ResumeBlog\bin\Debug\netcoreapp2.0\ResumeBlog.dll
+c:\users\mary smith\source\repos\ResumeBlog\ResumeBlog\obj\Debug\netcoreapp2.0\ResumeBlog.csprojResolveAssemblyReference.cache
+c:\users\mary smith\source\repos\ResumeBlog\ResumeBlog\obj\Debug\netcoreapp2.0\ResumeBlog.csproj.CoreCompileInputs.cache
+c:\users\mary smith\source\repos\ResumeBlog\ResumeBlog\obj\Debug\netcoreapp2.0\ResumeBlog.AssemblyInfoInputs.cache
+c:\users\mary smith\source\repos\ResumeBlog\ResumeBlog\obj\Debug\netcoreapp2.0\ResumeBlog.AssemblyInfo.cs
+C:\Users\Mary Smith\source\repos\ResumeBlog\ResumeBlog\bin\Debug\netcoreapp2.0\ResumeBlog.pdb
+C:\Users\Mary Smith\source\repos\ResumeBlog\ResumeBlog\obj\Debug\netcoreapp2.0\ResumeBlog.dll
+C:\Users\Mary Smith\source\repos\ResumeBlog\ResumeBlog\obj\Debug\netcoreapp2.0\ResumeBlog.pdb
